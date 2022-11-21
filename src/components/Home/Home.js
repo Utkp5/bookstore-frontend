@@ -3,6 +3,7 @@ import "./Home.css"
 import { FiPlay } from "react-icons/fi";
 import Compt1 from '../smallComponents/Compt1/Compt1';
 import Compt2 from '../smallComponents/Compt2/Compt2';
+import Compt3 from '../smallComponents/Compt3/Compt3';
 
 function Home() {
   return (
@@ -26,6 +27,7 @@ function Home() {
 
         <Compt1 />
         <Compt2 />
+        <Compt3 />
     </div>
     
   )
