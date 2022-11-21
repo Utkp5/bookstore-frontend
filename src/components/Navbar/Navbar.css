@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar
+{
+    background: #003461;
+    display: flex;
+    align-items: center;
+    height: 120px;
+}
+.logo
+{
+    width: 210px;
+}
+ul
+{
+    display: flex;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color: darkorange;
+    transition: all 1s;
+}
+li
+{
+    list-style: none;
+    font-size: 20px;
+    margin: 0px 20px;
+    padding: 4px 10px;
+}
+.navbar_items
+{
+    display: flex;
+    margin-left: 45px;
+}
+  
+  li a:focus {
+    color: gainsboro;
+  }
