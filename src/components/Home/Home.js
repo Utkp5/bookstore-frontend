@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Home.css"
 import { FiPlay } from "react-icons/fi";
+import Compt1 from '../smallComponents/Compt1/Compt1';
 
 function Home() {
   return (
@@ -21,6 +22,8 @@ function Home() {
                 <img src="https://bookpresstheme.com/html/assets/images/index2/book-image-main.png" alt="" className='home_img'/>
             </div>
         </div>
+
+        <Compt1 />
     </div>
     
   )

@@ -1,8 +1,22 @@
 .main_div
 {
     background: #F3F3F3;
+    display: flex;
+    padding: 70px 75px
 }
 .sub_div
 {
-
+    margin: 1px 22px;
+}
+.compt1_img
+{
+width: 100px;
+}
+#sub_div1
+{
+    border-right: 3px solid darkorange;
+}
+#sub_div3
+{
+    border-right: 3px solid darkorange;
 }
