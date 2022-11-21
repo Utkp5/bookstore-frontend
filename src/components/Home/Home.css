@@ -38,7 +38,7 @@ body {
     padding: 15px 30px;
     font-size: 16px;
     border: 2px solid whitesmoke;
-    color: darkturquoise;
+    color: #1882DB;
     border-radius: 25px;
     margin: 10px 0;
     background-color: whitesmoke;
@@ -54,7 +54,7 @@ body {
     border: 2px solid whitesmoke;
     background: whitesmoke;
     padding: 13px 16px;
-    border-radius: 50%;
+    border-radius: 38px;
     margin-left: 20px;
     margin-right: 5px;
 }
@@ -63,8 +63,7 @@ body {
     background-color: transparent;
     transition: all 0.7s;
     cursor: pointer;
-}
-.span2
-{
-    color: whitesmoke;
+    transition: all 0.9s;
+    padding : 12px 63px;
+    border-radius: 33px;
 }

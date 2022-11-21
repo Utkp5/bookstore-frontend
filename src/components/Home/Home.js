@@ -17,7 +17,7 @@ function Home() {
                 incididunt ut labore adipiscing.</p>
     
                  <button className='btn1'>More About Us</button>
-                 <a href="https://www.youtube.com/embed/pZVZdgY25uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"><button className='btn2'><FiPlay size={18} color = "darkturquoise"/></button><span className='span2'>Watch 3:00 min</span></a>
+                 <a href="https://www.youtube.com/embed/pZVZdgY25uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"><button className='btn2'><FiPlay size={18} color = "#1882DB" pointsAtX={1}/></button></a>
             </div>  
             <div>
                 <img src="https://bookpresstheme.com/html/assets/images/index2/book-image-main.png" alt="" className='home_img'/>

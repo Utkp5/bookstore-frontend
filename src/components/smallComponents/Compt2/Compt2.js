@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Compt2.css"
 import { HiCheck } from "react-icons/hi";
+import { HiMinus } from "react-icons/hi";
 
 function Compt2() {
   return (
@@ -9,7 +10,7 @@ function Compt2() {
         <img src="https://bookpresstheme.com/html/assets/images/index2/author.png" alt="" className='compt2_img'/>
       </div>
       <div className='compt2_sub_div'>
-        <p className='compt2_p1'>-AUTHOR & PUBLISHER</p>
+        <p className='compt2_p1'><HiMinus />AUTHOR & PUBLISHER</p>
         <p className='compt2_p2'>Student Pandit Utkarsh</p>
         <p className='compt2_p3'>Lorem ipsum dolor sit amet, con ge sectetur adipiiscing elit, eius Lorem ipsum dolor sit amet, coniscinsectetur adipiscing elit, eius mod tempor incididunt labore mod sit amet adipiscingconsectetur.</p>
         <p className='compt2_p4'>< HiCheck color='#1882DB'/> About Writting More Accomplished</p>
