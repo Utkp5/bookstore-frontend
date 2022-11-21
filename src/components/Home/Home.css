@@ -1,0 +1,44 @@
+body {
+  background-color: #003461;
+}
+.home_div
+{
+    display: flex;
+    margin: 25px 74px;;
+}
+.home_sub_div
+{
+    margin-right: 100px;
+}
+.p1 {
+    font-size: 25px;
+}
+.p2 {
+    font-size: 63px;
+    margin: 0;
+    font-family: emoji;
+    font-weight: 600;
+}
+.p3 {
+    font-size: 18px;
+}
+.span1 {
+    color: darkorange;
+}
+.home_img {
+    width: 474px;
+    margin-top: -45px;
+}
+.p1 , .p2 , .p3 
+{
+    color: white;
+}
+.btn1
+{
+    padding: 15px 30px;
+    font-size: 16px;
+    border: none;
+    color: darkturquoise;
+    border-radius: 25px;
+    margin: 10px 0;
+}
