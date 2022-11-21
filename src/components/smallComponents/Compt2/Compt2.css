@@ -1,11 +1,50 @@
-.main_din{
-
+.compt2_div{
+background-color: white;
+display: flex;
+padding: 40px 40px
 }
 .compt2_img
+{
+    border: 2px dotted darkorange;
+    border-radius: 314px;
+}
+.compt2_img:hover{
+    border: 2px solid darkorange;
+}
+.compt2_p1
+{
+    color :  #1882DB;
+    font-size : 20px
+}
+.compt2_p2
+{
+    
+}
+.compt2_p3
+{
+
+}
+.compt2_p4
+{
+
+}
+.compt2_p5
+{
+
+}
+.compt2_p6
+{
+
+}
+.compt2_p7
+{
+
+}
+.compt2_p8
 {
 
 }
 .compt_img1
 {
-    
+
 }
