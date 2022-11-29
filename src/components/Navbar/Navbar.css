@@ -13,12 +13,12 @@ body
     align-items: center;
     height: 120px;
     position: sticky;
-    margin: 0 25px;
-    top: 1px;
+    top: 0px;
 }
 .logo
 {
     width: 210px;
+    margin-left: 25px;
 }
 ul
 {
