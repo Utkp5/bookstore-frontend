@@ -13,6 +13,7 @@ body
     align-items: center;
     height: 120px;
     position: sticky;
+    margin: 0 25px;
     top: 1px;
 }
 .logo

@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className='navbar'>
         <div>
-            <img src="https://o.remove.bg/downloads/e293e8a0-2adb-480b-a181-27bfc51ab3ca/images-removebg-preview.png" alt="" className='logo'/>
+            <img src="https://bookpresstheme.com/html/assets/images/index2/logo-main-1.png" alt="" className='logo'/>
         </div>
         <div className='navbar_items'>
             <ul>
